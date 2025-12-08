@@ -45,11 +45,11 @@ section {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(ggg/7era2\ Logo.png) no-repeat;
+    background: url(ggg/Heraa\ E-Learning.png) no-repeat;
     background-position: right;
     background-attachment: fixed;
     background-size: 500px;
-    background-color: black;
+    background-color: rgb(1, 44, 41);
 
 }
 
@@ -62,8 +62,8 @@ section {
 .main h2 span {
     display: inline-block;
     margin-top: 10px;
-    color: #4c9eff;
-    font-size: 80px;
+    color: #34adb6;
+    font-size: 100px;
     font-weight: 500;
 }
 
@@ -218,7 +218,7 @@ section {
 
 .footer {
     color: #fff;
-    background-color: #000016;
+    background-color: #043b3f;
     padding: 2em;
     display: flex;
     justify-content: space-between;
@@ -230,7 +230,7 @@ section {
 }
 
 .footer-title span {
-    color: #3a6cf4;
+    color: #cf4444;
 }
 
 .footer .social-icons a {
